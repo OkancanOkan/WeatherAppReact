@@ -17,7 +17,11 @@ function App() {
           <p>Clouds</p>
         </div>
       </div>
-      <div className="bottom"></div>
+      <div className="bottom">
+        <div className="feels">
+        <h1>70°F</h1>
+        </div>
+      </div>
     </div>
   </div>
 }
